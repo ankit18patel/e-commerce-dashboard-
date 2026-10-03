@@ -1,6 +1,7 @@
 # Ankit E-Commerce Pvt. Ltd. - Sales & Profit Dashboard
+<br><br>
 
-![Dashboard Preview](link-to-your-dashboard-image.png) 
+![Dashboard Preview](https://github.com/ankit18patel/e-commerce-dashboard-/blob/main/dashboard.png) 
 
 ## 📊 Project Overview
 This repository contains an interactive Business Intelligence (BI) dashboard designed for **Ankit E-Commerce Pvt. Ltd.** The dashboard provides a comprehensive overview of the company's sales performance, profitability, customer demographics, and product category trends.
@@ -10,7 +11,7 @@ At a glance, the dashboard tracks the following high-level metrics:
 - **Total Quantity Sold:** 6K
 - **Total Revenue (Amount):** 438K
 - **Total Profit:** 37K
-
+<br>
 ## 📈 Dashboard Features & Visualizations
 The dashboard is divided into six main analytical views:
 
@@ -31,14 +32,15 @@ The dashboard is divided into six main analytical views:
    - *Key insights:* Printers (21.9%) and Bookcases (16.6%) are the leading sub-categories.
 6. **Interactive Filters:**
    - Users can filter the entire dashboard by **Quarter (Q1-Q4)** and **State** to drill down into specific periods or regions.
+     <br>
 
 ## 🛠️ Tech Stack
 - **Data Visualization Tool:** [ Power BI / Excel]
-- - **Data Source:** `Ankit_Ecommerce_Sales_Data.csv`
+- - **Data Source:** `kaggle` <br> https://github.com/ankit18patel/e-commerce-dashboard-/blob/main/Details.csv , https://github.com/ankit18patel/e-commerce-dashboard-/blob/main/Orders.csv
 
 ##  How to Use
 1. Clone this repository to your local machine.
-2. Open the dashboard file (e.g., `Ankit_Ecommerce_Dashboard.pbix` or `.twbx`) in the respective BI tool.
+2. Open the dashboard file (e.g., `https://github.com/ankit18patel/e-commerce-dashboard-/blob/main/e-commerce%20dashboard.pbix`) in the respective BI tool.
 3. Refresh the data connection if you are connecting to a live database.
 4. Use the filter dropdowns (Quarter and State) to interact with the visuals.
 
